@@ -17,6 +17,6 @@ Macierze::~Macierze()
 
 int main() {
 
-	cout << "Oh" << endl;
+	cout << "Oh, edytowalem:). I znowu" << endl;
 
 }
