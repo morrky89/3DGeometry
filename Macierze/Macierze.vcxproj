@@ -14,6 +14,7 @@
     <ProjectGuid>{5DF095F8-149D-4061-A577-D77F5B139497}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Macierze</RootNamespace>
+    <ProjectName>NaukaC</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -81,7 +82,7 @@
     <ClInclude Include="Macierze.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Macierze.cpp" />
+    <ClCompile Include="NaukaC.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

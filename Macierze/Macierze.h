@@ -6,3 +6,5 @@ public:
 	~Macierze();
 };
 
+void fun(double d, int);
+
